@@ -49,6 +49,20 @@ LibraryManagementSystem/
 │
 └── LibraryManagementSystem.java
 
+## 📸 Screenshots
+
+### Admin Menu
+
+![Admin Menu](Screenshots/admin-menu.png)
+
+### User Menu
+
+![User Menu](Screenshots/user-menu.png)
+
+### Book List
+
+![Book List](Screenshots/book-list.png)
+
 ▶️ How to Run
 
 Clone the repository:
