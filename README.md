@@ -53,7 +53,7 @@ LibraryManagementSystem/
 
 Clone the repository:
 
-git clone https://github.com/your-username/Java-Library-Management.git
+git clone https://github.com/srisanthoshvj/Java-Library-Management.git
 
 
 Open the project in any Java IDE such as IntelliJ IDEA, Eclipse, or VS Code.
